@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGame.Cli", "AdventureGame.Cli\AdventureGame.Cli.csproj", "{F338CD44-4637-470B-96AB-D4E458BA0529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGame.Core", "AdventureGame.Core\AdventureGame.Core.csproj", "{4A05FDA0-EA11-4C7F-8922-D073E664420F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F338CD44-4637-470B-96AB-D4E458BA0529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F338CD44-4637-470B-96AB-D4E458BA0529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F338CD44-4637-470B-96AB-D4E458BA0529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F338CD44-4637-470B-96AB-D4E458BA0529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A05FDA0-EA11-4C7F-8922-D073E664420F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A05FDA0-EA11-4C7F-8922-D073E664420F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A05FDA0-EA11-4C7F-8922-D073E664420F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A05FDA0-EA11-4C7F-8922-D073E664420F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
